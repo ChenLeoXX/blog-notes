@@ -5,4 +5,4 @@
 - [如何发布一个NPM包](https://github.com/ChenLeoXX/blog-notes/issues/3)
 - [函数上下文和变量对象](https://github.com/ChenLeoXX/blog-notes/issues/4)
 # Dec
-- [JS，浏览器相关概念](https://github.com/ChenLeoXX/blog-notes/issues/5)
+- [浏览器渲染相关概念](https://github.com/ChenLeoXX/blog-notes/issues/5)
