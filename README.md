@@ -6,3 +6,4 @@
 - [函数上下文和变量对象](https://github.com/ChenLeoXX/blog-notes/issues/4)
 # Dec
 - [浏览器渲染相关概念](https://github.com/ChenLeoXX/blog-notes/issues/5)
+- [ES6 Promise对象](https://github.com/ChenLeoXX/blog-notes/issues/6)
