@@ -7,3 +7,5 @@
 # Dec
 - [浏览器渲染相关概念](https://github.com/ChenLeoXX/blog-notes/issues/5)
 - [ES6 Promise对象](https://github.com/ChenLeoXX/blog-notes/issues/6)
+# Jan
+- [Windows下如何安装Vim插件](https://github.com/ChenLeoXX/blog-notes/issues/10)
