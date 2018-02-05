@@ -9,3 +9,5 @@
 - [ES6 Promise对象](https://github.com/ChenLeoXX/blog-notes/issues/6)
 # Jan
 - [Windows下如何安装Vim插件](https://github.com/ChenLeoXX/blog-notes/issues/10)
+# Feb
+- [常见排序之冒泡排序](https://github.com/ChenLeoXX/blog-notes/issues/11)
