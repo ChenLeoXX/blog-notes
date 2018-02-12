@@ -9,3 +9,4 @@
 7. [Windows下如何安装Vim插件](https://github.com/ChenLeoXX/blog-notes/issues/10)
 8. [常见排序之冒泡排序](https://github.com/ChenLeoXX/blog-notes/issues/11)
 9. [常见排序之快速排序](https://github.com/ChenLeoXX/blog-notes/issues/12)
+10. [常见排序之选择排序](https://github.com/ChenLeoXX/blog-notes/issues/13)
