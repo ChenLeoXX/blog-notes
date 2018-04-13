@@ -11,3 +11,4 @@
 9. [常见排序之随机快速排序](https://github.com/ChenLeoXX/blog-notes/issues/12)
 10. [常见排序之选择排序](https://github.com/ChenLeoXX/blog-notes/issues/13)
 11. [JS运行机制,异步](https://github.com/ChenLeoXX/blog-notes/issues/14)
+12. [浏览器缓存机制](https://github.com/ChenLeoXX/blog-notes/issues/15)
