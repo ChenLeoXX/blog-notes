@@ -1,4 +1,5 @@
 # blog/notes
+- [理解RESTful API规范](https://github.com/ChenLeoXX/blog-notes/issues/16)
 - [浏览器缓存机制](https://github.com/ChenLeoXX/blog-notes/issues/15)
 - [JS运行机制,异步](https://github.com/ChenLeoXX/blog-notes/issues/14)
 - [常见排序之选择排序](https://github.com/ChenLeoXX/blog-notes/issues/13)
